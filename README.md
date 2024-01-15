@@ -33,6 +33,13 @@ Soy un desarrollador backend especializado en Python, con experiencia destacada 
 ### Bases de Datos
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
+### Colaboración
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Service Now](https://img.shields.io/badge/Service%20Now-0077CC?style=for-the-badge&logo=ServiceNow&logoColor=white)
+
+### Otros
+![Active Directory](https://img.shields.io/badge/Active%20Directory-004880?style=for-the-badge&logo=Active%20Directory&logoColor=white)
+
 ## Contacto
 
 ¡Estoy abierto a oportunidades emocionantes y nuevas colaboraciones! Puedes contactarme a través de [correo electrónico](moralezjohn11@gmail.com) o [LinkedIn](https://www.linkedin.com/in/jhonedinsonmorales/).
