@@ -15,7 +15,7 @@ Soy un desarrollador backend especializado en Python, con experiencia destacada 
 
 ## Habilidades
 
-- **Lenguajes de Programación:** Python, SQL, JavaScript
+- **Lenguajes de Programación:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white), ![SQL (Consultas y Manipulación)](https://img.shields.io/badge/SQL-003366?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - **Frameworks y Tecnologías:** Flask, Docker, YAML, CSS
 - **Despliegue y Nube:** Azure DevOps
 - **Bases de Datos:** SQL Server
