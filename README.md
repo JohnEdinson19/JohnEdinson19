@@ -17,15 +17,12 @@ Soy un desarrollador backend especializado en Python, con experiencia destacada 
 
 ### Lenguajes de Programación
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL (Consultas y Manipulación)](https://img.shields.io/badge/SQL-003366?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frameworks y Tecnologías
 ![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=YAML&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 
 ### Despliegue y Nube
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
@@ -36,6 +33,7 @@ Soy un desarrollador backend especializado en Python, con experiencia destacada 
 ### Colaboración
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Service Now](https://img.shields.io/badge/Service%20Now-0077CC?style=for-the-badge&logo=ServiceNow&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ### Otros
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-004880?style=for-the-badge&logo=Active%20Directory&logoColor=white)
